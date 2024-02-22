@@ -29,10 +29,8 @@ You can install the required Python packages using pip:
 ```bash
 pip install tensorflow keras numpy
 
-```bash
 git clone https://github.com/patelnilay251/RegularizationandDropout.git
 
-```bash
 cd RegularizationandDropout
 
 
