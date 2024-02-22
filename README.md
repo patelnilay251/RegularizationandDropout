@@ -15,6 +15,15 @@ To run the code examples in this repository, you need the following dependencies
 - Keras
 - NumPy
 
+## Regularization
+
+The RegularizationAlgorithm.py script demonstrates how to implement  regularization in a neural network using TensorFlow and Keras.
+
+## Dropout
+
+The DropoutAlgorithm.py script shows how to implement dropout in a neural network to prevent overfitting.
+
+
 You can install the required Python packages using pip:
 
 ```bash
@@ -26,10 +35,4 @@ git clone https://github.com/patelnilay251/RegularizationandDropout.git
 ```bash
 cd RegularizationandDropout
 
-## Regularization
 
-The RegularizationAlgorithm.py script demonstrates how to implement  regularization in a neural network using TensorFlow and Keras.
-
-## Dropout
-
-The DropoutAlgorithm.py script shows how to implement dropout in a neural network to prevent overfitting.
